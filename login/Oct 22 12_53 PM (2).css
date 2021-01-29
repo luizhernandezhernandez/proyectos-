@@ -1,0 +1,48 @@
+header{
+    margin: 0px;
+    background-color:#2e4157; 
+    color: white;
+}
+/*
+body{
+    background-image:url(../img/fondo.jpg)
+}
+*/
+.center{
+    text-align: center;
+}
+
+.login {
+    margin: 16px;
+}
+.forms {
+   background-image:url(../img/fondo.jpg);
+}
+.login .header{
+    background-color:#2e4157 ;
+    color: white;
+    text-align: center;
+}
+
+.btn-main {
+	background-color:#7892c2;
+	border-radius:26px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:24px 62px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn-main:hover {
+	background-color:#476e9e;
+}
+.btn-main:active {
+	position:relative;
+	top:1px;
+}
+
+ 
